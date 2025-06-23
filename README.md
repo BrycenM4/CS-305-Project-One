@@ -17,7 +17,7 @@
 
 **How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?**
 
-- I made sure the code and software application were secure by running multiple dependency checks to ensure that the vulnerabilities were being sovled. Additionally, if I had false-positives showing up again and again, I made sure to suppress them so they wouldn't keep showing up on the reports and confuse the rest of the security team.
+- I made sure the code and software application were secure by running multiple dependency checks to ensure that the vulnerabilities were being solved. Additionally, if I had false-positives showing up again and again, I made sure to suppress them so they wouldn't keep showing up on the reports and confuse the rest of the security team.
 
 **What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?**
 
